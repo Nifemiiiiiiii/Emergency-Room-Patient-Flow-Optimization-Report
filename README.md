@@ -105,11 +105,11 @@ Satisfaction scores of 5.50 and the lowest (4.2/10) for 31-40 age group
 
 ## DAX Measures
 
-![image](https://github.com/user-attachments/assets/b68a657f-ef65-491d-bbcc-f3380460a1b4)        ![image](https://github.com/user-attachments/assets/2fc492bc-a5a2-4ff3-b6b2-dfd23a09206d)
+![image](https://github.com/user-attachments/assets/b68a657f-ef65-491d-bbcc-f3380460a1b4)                    ![image](https://github.com/user-attachments/assets/2fc492bc-a5a2-4ff3-b6b2-dfd23a09206d)
 
-![image](https://github.com/user-attachments/assets/4061b20b-1725-4b2f-afba-1b2c6f50296b)        ![image](https://github.com/user-attachments/assets/2cc3318c-03c8-40fd-9057-765828049033)
+![image](https://github.com/user-attachments/assets/4061b20b-1725-4b2f-afba-1b2c6f50296b)                    ![image](https://github.com/user-attachments/assets/2cc3318c-03c8-40fd-9057-765828049033)
 
-![image](https://github.com/user-attachments/assets/ef9566e2-52fb-4878-b180-5f4e20b0e9aa)        ![image](https://github.com/user-attachments/assets/9a1a553b-2ca6-4059-a186-200b92ff4ea3)
+![image](https://github.com/user-attachments/assets/ef9566e2-52fb-4878-b180-5f4e20b0e9aa)                    ![image](https://github.com/user-attachments/assets/9a1a553b-2ca6-4059-a186-200b92ff4ea3)
 
 ## Insights & Findings
 
